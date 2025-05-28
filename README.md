@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning website application.<br>🎯 Goals: Find a job.</p>
+<p align="left">✨ Creating projects since 2020.<br>📚 I'm currently learning website application.<br>🎯 Goals: Find a job.</p>
 
 ###
 
