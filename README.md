@@ -59,3 +59,7 @@
 </div>
 
 ###
+
+<p align="left">Free API AI Provider (OpenAI-compatible provider): https://9router.lechcher.abrdns.com/v1</p>
+
+###
