@@ -60,6 +60,6 @@
 
 ###
 
-<p align="left">Free API AI Provider (OpenAI-compatible provider): https://9router.lechcher.abrdns.com/v1</p>
+<p align="left">Free API AI Provider (OpenAI-compatible provider): https://9router.chickenkiller.com/v1</p>
 
 ###
